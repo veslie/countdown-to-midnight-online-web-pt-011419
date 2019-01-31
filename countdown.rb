@@ -1,4 +1,4 @@
-x = 0
+x = 60
   while countdown_with_sleep < 60
  puts "#{x} HAPPY NEW YEAR"
  x -= 1
