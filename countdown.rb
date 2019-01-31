@@ -1,4 +1,4 @@
-x = 60
+def count_down
   while countdown_with_sleep < 60
  puts "#{x} HAPPY NEW YEAR"
  x -= 1
