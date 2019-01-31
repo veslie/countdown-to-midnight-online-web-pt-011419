@@ -1,4 +1,3 @@
-countdown_with_sleep = 0 
 x = 0
   while countdown_with_sleep < 60
  puts "#{x} HAPPY NEW YEAR"
